@@ -13,6 +13,7 @@
 
 # 🔭 Favourite projects
 <div align="center">
+  <h1>🔭 Favourite projects</h1>
   
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
