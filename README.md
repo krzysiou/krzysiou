@@ -1,4 +1,4 @@
-## 🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Websites
+# Websites
 <div align="center">
   
 | Tables   |      Are      |  Cool |
