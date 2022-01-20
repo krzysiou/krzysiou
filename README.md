@@ -12,7 +12,6 @@
 -->
 
 <div align="center">
-  <h1>🔭 Projects</h1>
   
   <h3>🖥 &nbsp;Websites</h3>
   
