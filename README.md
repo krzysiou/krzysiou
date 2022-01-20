@@ -14,10 +14,10 @@
 <div align="center">
   <h1>🔭 Fav projects</h1>
   
-| **Frontend** |    **Backend**    |
-|----------|---------------|
-| [SimpleZ](https://github.com/krzysiou/SimpleZ) | [SimpleZ-api](https://github.com/krzysiou/SimpleZ-api)
-| [live-click](https://github.com/krzysiou/live-click) | [live-click-api](https://github.com/krzysiou/live-click-api)
-| [Mandatum](https://github.com/krzysiou/Mandatum) | [Mandatum-api](https://github.com/krzysiou/Mandatum-api)
+| **Frontend**                                           |    **Backend**                                                   |
+|---                                                     |---                                                               |
+| [`SimpleZ`](https://github.com/krzysiou/SimpleZ)       | [`SimpleZ-api`](https://github.com/krzysiou/SimpleZ-api)         |
+| [`live-click`](https://github.com/krzysiou/live-click) | [`live-click-api`](https://github.com/krzysiou/live-click-api)   |
+| [`Mandatum`](https://github.com/krzysiou/Mandatum)    | [`Mandatum-api`](https://github.com/krzysiou/Mandatum-api)       |
   
 </div>
