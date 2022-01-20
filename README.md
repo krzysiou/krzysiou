@@ -12,12 +12,12 @@
 -->
 
 <div align="center">
-  <h1>🔭 Fav projects</h1>
+  <h1>🔭 Projects</h1>
   
 | **Frontend**                                               |    **Backend**                                                     |
 |---                                                         |---                                                                 |
-| [**`SimpleZ`**](https://github.com/krzysiou/SimpleZ)       | [**`SimpleZ-api`**](https://github.com/krzysiou/SimpleZ-api)       |
-| [**`live-click`**](https://github.com/krzysiou/live-click) | [**`live-click-api`**](https://github.com/krzysiou/live-click-api) |
-| [**`Mandatum`**](https://github.com/krzysiou/Mandatum)     | [**`Mandatum-api`**](https://github.com/krzysiou/Mandatum-api)     |
+| [**`SimpleZ`**](https://github.com/krzysiou/SimpleZ)       [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/SimpleZ) | [**`SimpleZ-api`**](https://github.com/krzysiou/SimpleZ-api)                      [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/SimpleZ-api)              |
+| [**`live-click`**](https://github.com/krzysiou/live-click) [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/live-click) | [**`live-click-api`**](https://github.com/krzysiou/live-click-api)             [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/live-click-api)           |
+| [**`Mandatum`**](https://github.com/krzysiou/Mandatum)     [![Generic badge](https://img.shields.io/badge/status-in%20progress-yellow.svg?style="plastic")](https://github.com/krzysiou/Mandatum)   | [**`Mandatum-api`**](https://github.com/krzysiou/Mandatum-api)       [![Generic badge](https://img.shields.io/badge/status-in%20progress-yellow.svg?style="plastic")](https://github.com/krzysiou/Mandatum-api)   |
   
 </div>
