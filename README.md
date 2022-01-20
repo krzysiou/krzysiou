@@ -14,7 +14,7 @@
 <div align="center">
   <h1>🔭 Projects</h1>
   
-  <h3>🖥 Websites</h3>
+  <h3>🖥 &nbsp;Websites</h3>
   
 | **Frontend**                                               |    **Backend**                                                     |
 |---                                                         |---                                                                 |
@@ -22,7 +22,7 @@
 | [**`live-click`**](https://github.com/krzysiou/live-click) &nbsp;&nbsp;&nbsp; [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/live-click) | [**`live-click-api`**](https://github.com/krzysiou/live-click-api)        &nbsp;&nbsp;&nbsp;    [![Generic badge](https://img.shields.io/badge/status-done-green.svg?style="plastic")](https://github.com/krzysiou/live-click-api)           |
 | [**`Mandatum`**](https://github.com/krzysiou/Mandatum)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Generic badge](https://img.shields.io/badge/status-in%20progress-yellow.svg?style="plastic")](https://github.com/krzysiou/Mandatum)   | [**`Mandatum-api`**](https://github.com/krzysiou/Mandatum-api)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Generic badge](https://img.shields.io/badge/status-in%20progress-yellow.svg?style="plastic")](https://github.com/krzysiou/Mandatum-api)   |
   
-  <h3>🛠 Tools</h3>
+  <h3>🛠&nbsp;Tools</h3>
   
   | **Name**                                               |
 |---                                                         |
