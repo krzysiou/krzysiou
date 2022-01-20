@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-# Websites
+# 🔭 Favourite projects
 <div align="center">
   
 | Tables   |      Are      |  Cool |
