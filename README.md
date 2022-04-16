@@ -1,4 +1,4 @@
-# 🔭 I’m currently working on a messaging website
+# 🌱 I’m currently learning . . .
 
 <!--
 - 🔭 I’m currently working on ...
