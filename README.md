@@ -17,8 +17,8 @@
   
 |**Frontend**|**Backend**|**Status**|
 |---|---|---|
-| [**SimpleZ**](https://github.com/krzysiou/SimpleZ)|[**SimpleZ-api**](https://github.com/krzysiou/SimpleZ-api)|[![Generic badge](https://img.shields.io/badge/status-done-success.svg?style="flat")](https://github.com/krzysiou/SimpleZ)|[**SimpleZ-api**](https://github.com/krzysiou/SimpleZ)|
-| [**live-click**](https://github.com/krzysiou/live-click)|[**live-click-api**](https://github.com/krzysiou/live-click-api)|[![Generic badge](https://img.shields.io/badge/status-done-success.svg?style="flat")](https://github.com/krzysiou/SimpleZ)|[**SimpleZ-api**](https://github.com/krzysiou/live-click)|
+| [**SimpleZ**](https://github.com/krzysiou/SimpleZ)|[**SimpleZ-api**](https://github.com/krzysiou/SimpleZ-api)|[![Generic badge](https://img.shields.io/badge/status-done-success.svg?style="flat")](https://github.com/krzysiou/SimpleZ)|
+| [**live-click**](https://github.com/krzysiou/live-click)|[**live-click-api**](https://github.com/krzysiou/live-click-api)|[![Generic badge](https://img.shields.io/badge/status-done-success.svg?style="flat")](https://github.com/krzysiou/live-click)|
 | [**Mandatum**](https://github.com/krzysiou/Mandatum)|[**Mandatum-api**](https://github.com/krzysiou/Mandatum-api)|[![Generic badge](https://img.shields.io/badge/status-in%20progress-yellow.svg?style="flat")](https://github.com/krzysiou/Mandatum)|
   
   <h3>🛠&nbsp;Tools</h3>
