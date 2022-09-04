@@ -1,7 +1,6 @@
 <div align="center">
     
    <!-- [<img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="300"/>](https://krzysiou.github.io/#/) -->
-   <!-- [<img src="https://img.shields.io/badge/-Personal-1b2638?style=flat-square&logo=Playwright&logoColor=1DDDCB"/>](https://krzysiou.github.io/#/) -->
     
   <img width="1540" alt="Screenshot 2022-09-02 at 08 53 10" src="https://user-images.githubusercontent.com/60892747/188076762-6a7ca8a9-fecc-4622-97c9-04ef9414af0b.png">  
 
@@ -11,6 +10,7 @@
   
   [<img src="https://img.shields.io/badge/-Github-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://github.com/krzysiou)
   [<img src="https://img.shields.io/badge/-LinkedIn-1b2638?style=flat-square&logo=LinkedIn&logoColor=1DDDCB"/>](https://www.linkedin.com/in/krzysztof-tluszcz/)
+  [<img src="https://img.shields.io/badge/-Personal-1b2638?style=flat-square&logo=Playwright&logoColor=1DDDCB"/>](https://krzysiou.github.io/#/)
   [<img src="https://img.shields.io/badge/-Facebook-1b2638?style=flat-square&logo=Facebook&logoColor=1DDDCB"/>](https://www.facebook.com/krzysioou)
   [<img src="https://img.shields.io/badge/-Instagram-1b2638?style=flat-square&logo=Instagram&logoColor=1DDDCB"/>](https://www.instagram.com/_krzysiou)
   [<img src="https://img.shields.io/badge/-Twitter-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://twitter.com/krzysiou)
