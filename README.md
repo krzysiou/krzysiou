@@ -59,7 +59,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krzysiou&theme=tokyonight_duo&hide_border=true&background=0f151f&fire=1AD8A0&ring=139B73&sideLabels=1DDDCB&dates=a4aacb&currStreakNum=e3e3e3&stroke=1C7546&sideNums=e3e3e3&currStreakLabel=1DDDCB)](https://github.com/krzysiou)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou)
 
   ##
   
