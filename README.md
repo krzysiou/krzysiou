@@ -76,7 +76,7 @@
   ##
   
   ###### 0.4 - Tools
-  
+  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=config-dumpster&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/config-dumpster)
     
