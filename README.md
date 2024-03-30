@@ -76,7 +76,6 @@
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=SimpleZ-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/SimpleZ-api)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=live-click&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=live-click-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=game-recommend&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/game-recommend)
   
   ##
   
