@@ -10,7 +10,6 @@
   
   [<img src="https://img.shields.io/badge/-Github-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://github.com/krzysiou)
   [<img src="https://img.shields.io/badge/-LinkedIn-1b2638?style=flat-square&logo=LinkedIn&logoColor=1DDDCB"/>](https://www.linkedin.com/in/krzysztof-tluszcz/)
-  [<img src="https://img.shields.io/badge/-Personal-1b2638?style=flat-square&logo=Playwright&logoColor=1DDDCB"/>](https://krzysiou.github.io/#/)
   [<img src="https://img.shields.io/badge/-Facebook-1b2638?style=flat-square&logo=Facebook&logoColor=1DDDCB"/>](https://www.facebook.com/krzysioou)
   [<img src="https://img.shields.io/badge/-Instagram-1b2638?style=flat-square&logo=Instagram&logoColor=1DDDCB"/>](https://www.instagram.com/_krzysiou)
   [<img src="https://img.shields.io/badge/-Twitter-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://twitter.com/krzysiou)
@@ -63,7 +62,15 @@
 
   ##
   
-  ###### 0.3 - Websites
+  ###### 0.3 - Live websites
+
+[<img src="https://img.shields.io/badge/-Trackly-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://trackly-io.vercel.app/)
+[<img src="https://img.shields.io/badge/-Fileio-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://file-io.vercel.app/)
+[<img src="https://img.shields.io/badge/-Playground-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://react-playground-azure-three.vercel.app/)
+
+  ##
+
+###### 0.4 - Repositories
   
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=trackly&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=trackly-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly-api)
@@ -81,7 +88,7 @@
   
   ##
   
-  ###### 0.4 - Tools
+  ###### 0.5 - Tools
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=config-dumpster&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/config-dumpster)
