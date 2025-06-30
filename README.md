@@ -56,8 +56,8 @@
   
   ###### 0.2 - Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou)
-
+  [comment]: < [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou) >
+  [![Krzysiou](https://github-readme-activity-graph.vercel.app/graph?username=krzysiou&theme=github-compact&hide_title=true&radius=25&hide_border=true&bg_color=0f151f&line=1DDDCB)](https://github.com/krzysiou)
   ##
   
   ###### 0.3 - Live websites
@@ -91,4 +91,8 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=exapunks-solutions&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/exapunks-solutions)
 
+  ##
+  
+  <img width="1540" alt="Screenshot 2022-09-02 at 08 53 10" src="https://user-images.githubusercontent.com/60892747/188076762-6a7ca8a9-fecc-4622-97c9-04ef9414af0b.png">  
+  
 </div>
