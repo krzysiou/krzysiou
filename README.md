@@ -56,7 +56,7 @@
   
   ###### 0.2 - Stats
 
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou)
 
   ##
   
@@ -70,25 +70,25 @@
 
 ###### 0.4 - Repositories
   
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=trackly&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=trackly-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=comm&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/comm)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=comm-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/comm-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=file-io&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/file-io)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=file-io-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/file-io-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=Mandatum&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/Mandatum)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=Mandatum-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/Mandatum-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=SimpleZ&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/SimpleZ)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=SimpleZ-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/SimpleZ-api)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=live-click&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=live-click-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=comm&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/comm)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=comm-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/comm-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=file-io&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/file-io)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=file-io-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/file-io-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=Mandatum&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/Mandatum)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=Mandatum-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/Mandatum-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=SimpleZ&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/SimpleZ)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=SimpleZ-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/SimpleZ-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=live-click&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=live-click-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/live-click-api)
 
   
   ##
   
   ###### 0.5 - Tools
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
-  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krzysiou&repo=exapunks-solutions&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/exapunks-solutions)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=exapunks-solutions&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/exapunks-solutions)
 
 </div>
