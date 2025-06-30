@@ -88,7 +88,7 @@
   
   ###### 0.5 - Tools
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=property-manager&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/property-manager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=property-manager&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&description_lines_count=2)](https://github.com/krzysiou/property-manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=exapunks-solutions&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/exapunks-solutions)
 
