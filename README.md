@@ -9,19 +9,10 @@
 
   [<kbd> <br>Visit Portfolio<br> </kbd>](https://krzysiou.github.io)
   -->
-  
-  ###### 0.1 - Media
-
-  [<img src="https://img.shields.io/badge/-Github-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://krzysiou.github.io)
-  [<img src="https://img.shields.io/badge/-Github-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://github.com/krzysiou)
-  [<img src="https://img.shields.io/badge/-LinkedIn-1b2638?style=flat-square&logo=LinkedIn&logoColor=1DDDCB"/>](https://www.linkedin.com/in/krzysztof-tluszcz/)
-  [<img src="https://img.shields.io/badge/-Facebook-1b2638?style=flat-square&logo=Facebook&logoColor=1DDDCB"/>](https://www.facebook.com/krzysioou)
-  [<img src="https://img.shields.io/badge/-Instagram-1b2638?style=flat-square&logo=Instagram&logoColor=1DDDCB"/>](https://www.instagram.com/_krzysiou)
-  [<img src="https://img.shields.io/badge/-Twitter-1b2638?style=flat-square&logo=GitHub&logoColor=1DDDCB"/>](https://twitter.com/krzysiou)
  
-   ##
+  ##
     
-  ###### 0.2 - Tech
+  ###### 0.1 - Tech
   
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>
@@ -58,7 +49,7 @@
   
   ## 
   
-  ###### 0.3 - Stats
+  ###### 0.2 - Stats
 
   [comment]: < [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysiou&hide=Makefile,Cmake,C,C%2B%2B&layout=compact&langs_count=6&hide_border=true&include_all_commits=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&hide_title=true)](https://github.com/krzysiou) >
   [![Krzysiou](https://github-readme-activity-graph.vercel.app/graph?username=krzysiou&theme=github-compact&hide_title=true&radius=25&hide_border=true&bg_color=0f151f&line=1DDDCB)](https://github.com/krzysiou)
@@ -72,7 +63,7 @@
 
   ##
 
-###### 0.5 - Repositories
+###### 0.3 - Repositories
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly-api)
@@ -90,7 +81,7 @@
   
   ##
   
-  ###### 0.6 - Tools
+  ###### 0.4 - Tools
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=property-manager&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&description_lines_count=2)](https://github.com/krzysiou/property-manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
