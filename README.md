@@ -55,15 +55,15 @@
   [![Krzysiou](https://github-readme-activity-graph.vercel.app/graph?username=krzysiou&theme=github-compact&hide_title=true&radius=25&hide_border=true&bg_color=0f151f&line=1DDDCB)](https://github.com/krzysiou)
   ##
   
-  ###### 0.4 - Live websites
+  ###### 0.3 - Live websites
 
-[<img src="https://img.shields.io/badge/-Trackly-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://trackly-io.vercel.app/)
-[<img src="https://img.shields.io/badge/-Fileio-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://file-io.vercel.app/)
-[<img src="https://img.shields.io/badge/-Playground-1b2638?style=flat-square&logo=Visual%20Studio%20Code&logoColor=1DDDCB"/>](https://react-playground-azure-three.vercel.app/)
+[<kbd> <br>&nbsp;Trackly&nbsp;<br> </kbd>](https://trackly-io.vercel.app/)&nbsp;&nbsp;
+[<kbd> <br>&nbsp;FileIo&nbsp;<br> </kbd>](https://file-io.vercel.app/)&nbsp;&nbsp;
+[<kbd> <br>&nbsp;Playground&nbsp;<br> </kbd>](https://react-playground-azure-three.vercel.app/)
 
   ##
 
-###### 0.3 - Repositories
+###### 0.4 - Repositories
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=trackly-api&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/trackly-api)
@@ -81,7 +81,7 @@
   
   ##
   
-  ###### 0.4 - Tools
+  ###### 0.5 - Tools
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=findir&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/findir)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=property-manager&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB&description_lines_count=2)](https://github.com/krzysiou/property-manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krzysiou&repo=zsh-git-prompt-theme&hide_border=true&bg_color=0f151f&title_color=e3e3e3&text_color=a4aacb&icon_color=1DDDCB)](https://github.com/krzysiou/zsh-git-prompt-theme)
