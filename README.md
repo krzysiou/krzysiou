@@ -2,9 +2,11 @@
     
   <img width="1540" alt="Screenshot 2022-09-02 at 08 53 10" src="https://user-images.githubusercontent.com/60892747/188076762-6a7ca8a9-fecc-4622-97c9-04ef9414af0b.png">  
 
-  ##
+
   
   <!-- 
+  ##
+    
   ###### 0.0 - Portfolio
 
   [<kbd> <br>Visit Portfolio<br> </kbd>](https://krzysiou.github.io)
